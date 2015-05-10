@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <php>
+        <get name="fname" value="Dave" />
+        <get name="lname" value="Gable" />
+        <get name="age" value="29" />
+        <get name="favorite_food" value="buffalo wings" />
+        <post name="fname" value="Sydney" />
+        <post name="lname" value="Gable" />
+        <post name="age" value="12" />
+        <post name="favorite_food" value="tacos" />
+    </php>
+</root>
